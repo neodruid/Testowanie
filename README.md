@@ -1,2 +1,2 @@
 # Testowanie
-TBD
+Materiały do przedmiotu testowanie oprogramowania
